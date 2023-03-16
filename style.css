@@ -1,0 +1,39 @@
+@import url("https://fonts.googleapis.com/css?family=Audiowide");
+body{
+    background-color: rgb(240, 240, 226); 
+}
+.mbody{
+     background-color: aliceblue;
+     margin-left: 5%;
+     margin-right: 5%;
+     padding: 3%;
+}
+.st{
+     font-size: xxx-large;
+     font-family:"Audiowide";
+}
+.d1{
+     margin-bottom: 3%;
+}
+.d2{
+     background-color: rgb(232, 242, 249);
+     border-radius: 25px;
+     padding: 10px;
+     margin: 3px;
+}
+.bullet{
+     list-style: circle;
+}     
+
+.d3{
+     padding: 8px;
+     margin-bottom: 10px;
+}
+.d4{
+     padding: 13px;
+     text-align: center;
+}
+.dm{
+     margin: auto;
+     margin-left: 27px;
+}
